@@ -1,0 +1,6 @@
+[32mINFO    [0m test_client:test_client.py:15 发起GET请求:http://127.0.0.1:5000/api/todos
+[32mINFO    [0m test_client:test_client.py:21 响应状态码：200
+[32mINFO    [0m test_client:test_client.py:15 发起DELETE请求:http://127.0.0.1:5000/api/todos/1
+[32mINFO    [0m test_client:test_client.py:21 响应状态码：204
+[32mINFO    [0m test_client:test_client.py:15 发起PUT请求:http://127.0.0.1:5000/api/todos/9999
+[32mINFO    [0m test_client:test_client.py:21 响应状态码：404
