@@ -1,0 +1,5 @@
+flask
+flask-sqlalchemy
+pytest
+requests
+allure-pytest

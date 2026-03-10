@@ -1,0 +1,14 @@
+2026-03-10 15:15:11,592 - test_client - INFO - 发起GET请求:http://127.0.0.1:5000/api/todos
+2026-03-10 15:15:11,594 - test_client - INFO - 响应状态码：200
+2026-03-10 15:15:11,595 - test_client - INFO - 发起DELETE请求:http://127.0.0.1:5000/api/todos/1
+2026-03-10 15:15:11,635 - test_client - INFO - 响应状态码：204
+2026-03-10 15:15:11,635 - test_client - INFO - 发起DELETE请求:http://127.0.0.1:5000/api/todos/2
+2026-03-10 15:15:11,670 - test_client - INFO - 响应状态码：204
+2026-03-10 15:15:11,670 - test_client - INFO - 发起DELETE请求:http://127.0.0.1:5000/api/todos/3
+2026-03-10 15:15:11,689 - test_client - INFO - 响应状态码：204
+2026-03-10 15:15:11,691 - test_client - INFO - 发起POST请求:http://127.0.0.1:5000/api/todos
+2026-03-10 15:15:11,709 - test_client - INFO - 响应状态码：201
+2026-03-10 15:15:11,709 - test_client - INFO - 发起POST请求:http://127.0.0.1:5000/api/todos
+2026-03-10 15:15:11,739 - test_client - INFO - 响应状态码：201
+2026-03-10 15:15:11,739 - test_client - INFO - 发起GET请求:http://127.0.0.1:5000/api/todos
+2026-03-10 15:15:11,761 - test_client - INFO - 响应状态码：200
